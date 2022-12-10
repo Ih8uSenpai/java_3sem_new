@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4953ba1-f7f7-41bf-ba29-8e418575e8dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice4/src/task3/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice4/src/task3/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice4/src/task3/FurnitureShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice4/src/task3/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice4/src/task3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice4/src/task3/purchasable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_1/out/production/task1_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_2/out/production/task1_2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_3/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_3/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_3/out/production/task1_3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1/task1_3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_1/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_1/out/production/task2_1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_2/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_2/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_2/out/production/task2_2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_3/out/production/task2_3/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice2/task2_3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task1/Author.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task1/TestAuthor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task10/HowMany.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task2/Ball.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task2/TestBall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task3/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task3/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task3/Tester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task4/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task4/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task4/TestShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task5/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task5/TestDog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task6/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task6/TestCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task7/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task7/Bookshelf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task7/TestBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task8/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/out/production/practice3/task9/Poker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task1/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task1/Author.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task1/TestAuthor.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task1/TestAuthor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task10/HowMany.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task10/HowMany.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task2/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task2/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task2/TestBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task2/TestBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task3/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task3/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task3/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task3/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task3/Tester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task4/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task4/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task4/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task4/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task4/TestShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task4/TestShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task5/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task5/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task5/TestDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task5/TestDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task6/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task6/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task6/TestCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task6/TestCircle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task7/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task7/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task7/Bookshelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task7/Bookshelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task7/TestBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task7/TestBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task8/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task8/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice3/src/task9/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice2/src/task9/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice4/src/task2/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice4/src/task2/Tester.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2I2D87qhncHnn6x1rhtQtOx4Dih" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/java3sem_final/practice4/src/task3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java3sem_final\practice4\src\task3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java3sem_final\practice1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Figure">
+    <configuration name="Figure" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.Figure" />
+      <module name="practice5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task3.Test" />
+      <module name="practice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task2.Tester" />
+      <module name="practice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task1.task" />
+      <module name="practice4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task5.Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task5.Main" />
+      <module name="practice1" />
+      <option name="PROGRAM_PARAMETERS" value="str1, str2, str3, str4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task6.Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task6.Main" />
+      <module name="practice1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ttt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task4.ttt" />
+      <module name="practice5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Figure" />
+        <item itemvalue="Application.ttt" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Tester" />
+        <item itemvalue="Application.task" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4953ba1-f7f7-41bf-ba29-8e418575e8dd" name="Changes" comment="" />
+      <created>1669370623718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669370623718</updated>
+      <workItem from="1669370627100" duration="826000" />
+      <workItem from="1669373327667" duration="19845000" />
+      <workItem from="1669441562095" duration="12171000" />
+      <workItem from="1669972907571" duration="26939000" />
+      <workItem from="1670599914606" duration="5881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
